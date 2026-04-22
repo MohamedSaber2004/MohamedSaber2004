@@ -77,14 +77,6 @@
 <img src="https://skillicons.dev/icons?i=dotnet,angular,bootstrap" />
 </p>
 
-### 🗄️ Databases & Services
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50"/>
-</p>
-
 ### 🔐 Authentication & APIs
 
 <p align="center">
@@ -96,8 +88,10 @@
 ### ⚡ DevOps & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,vscode,visualstudio,github" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50"/>
+  <img src="https://skillicons.dev/icons?i=docker,git,vscode,visualstudio,github" />
 </p>
 
 ---
