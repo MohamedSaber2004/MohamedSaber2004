@@ -96,7 +96,9 @@
 ### ⚡ DevOps & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,git,github,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=docker,git,vscode,visualstudio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50"/>
 </p>
 
 ---
