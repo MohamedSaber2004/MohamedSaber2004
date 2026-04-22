@@ -91,7 +91,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/Azure/azure-icons/main/icons/SignalR/SignalR.svg" width="50"/>
   <img src="https://cdn.simpleicons.org/pusher" width="50"/>
   <img src="https://skillicons.dev/icons?i=docker,git,vscode,visualstudio,github" />
 </p>
