@@ -90,7 +90,7 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" width="50" style="filter: invert(1);"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="50" style="background-color:#000; border-radius:10px; padding:5px;"/>
 </p>
 
 ### ⚡ DevOps & Tools
