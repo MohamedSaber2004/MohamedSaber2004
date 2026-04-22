@@ -90,7 +90,7 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="50"/>
-  <img src="https://cdn.simpleicons.org/openai/ffffff" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" width="50"/>
 </p>
 
 ### ⚡ DevOps & Tools
