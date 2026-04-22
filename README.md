@@ -92,9 +92,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50"/>
   <img width="50" src="data:image/svg+xml;utf8,
-<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='white'>
-<path d='M2 12c0-5.52 4.48-10 10-10s10 4.48 10 10-4.48 10-10 10S2 17.52 2 12zm10-8a8 8 0 100 16 8 8 0 000-16zm-1 4h2v5h-2zm0 6h2v2h-2z'/>
-</svg>"/>
+  <img src="https://cloud-icons.onemodel.app/azure/web/icon_service_signalr.svg" width="50"/>
   <img src="https://cdn.simpleicons.org/pusher" width="50"/>
   <img src="https://skillicons.dev/icons?i=docker,git,vscode,visualstudio,github" />
 </p>
