@@ -88,9 +88,9 @@
 ### 🔐 Authentication & APIs
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=google" />
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>
-<img src="https://img.shields.io/badge/ChatGPT_API-10A37F?style=flat&logo=openai&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="50"/>
+  <img src="https://img.shields.io/badge/ChatGPT_API-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
 ### ⚡ DevOps & Tools
