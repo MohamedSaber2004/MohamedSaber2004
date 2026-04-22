@@ -74,7 +74,7 @@
 ### ⚙️ Frameworks
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=dotnet,angular,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=dotnet,angular,bootstrap" />
 </p>
 
 ### 🗄️ Databases & Services
