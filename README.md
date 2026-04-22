@@ -80,7 +80,9 @@
 ### 🗄️ Databases & Services
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=sqlserver,redis,firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50"/>
 </p>
 
 ### 🔐 Authentication & APIs
