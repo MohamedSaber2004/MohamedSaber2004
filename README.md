@@ -92,7 +92,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50"/>
   <img width="50" src="data:image/svg+xml;utf8,
-  <img src="https://cloud-icons.onemodel.app/azure/web/icon_service_signalr.svg" width="50"/>
+ <img src="https://cloud-icons.onemodel.app/azure/web/icon_service_signalr.svg" width="50" style="filter: invert(1);"/>
   <img src="https://cdn.simpleicons.org/pusher" width="50"/>
   <img src="https://skillicons.dev/icons?i=docker,git,vscode,visualstudio,github" />
 </p>
