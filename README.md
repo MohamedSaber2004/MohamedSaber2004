@@ -2,31 +2,36 @@
 
 # 👋 Hi, I'm Mohamed Saber
 
-💻 **Full-Stack Developer** Passionate about building scalable APIs, high-performance systems, and responsive UIs using modern Microsoft technologies and Angular.
+[cite_start]💻 **Full-Stack Developer** specializing in ASP.NET Core and Angular[cite: 4]. [cite_start]Expert in building scalable APIs, integrating AI (ChatGPT), and architecting systems with Clean, Onion, and N-Tier Architectures[cite: 4].
 
 ---
 
 ## 🔹 About Me  
-- 💡 Skilled in **.NET Core, C#, SQL Server, and Entity Framework Core** - ⚡ Experienced in **Real-time Development** using **SignalR** for live data updates, instant notifications, and managing user presence.  
-- 🎨 Developing responsive UIs with modern **Angular** (standalone components), translating designs into functional architecture with seamless backend integration.
-- 🚀 Proficient in **Caching Strategies** (Redis, In-Memory) to optimize application performance  
-- 🏗️ Experienced in **N-Tier Architecture** & **Clean Architecture** for building well-structured applications  
-- 🤝 Open to collaboration on **full-stack projects and open-source contributions** - 🧹 Strong advocate for writing **clean, efficient, and maintainable code** ---
+- [cite_start]💡 Skilled in **C#, .NET Core (API/MVC), SQL Server, and EF Core**[cite: 7, 8].
+- [cite_start]🤖 Experienced in **AI Integration**, specifically implementing **ChatGPT APIs** for automated features and assessments[cite: 4, 14].
+- [cite_start]🔐 Proficient in **Identity & Security**, including **OAuth 2.0, JWT**, and Social Logins (**Google & Facebook**)[cite: 8, 16].
+- [cite_start]⚡ Experienced in **Real-time Development** using **SignalR** and **Pusher** for live data and instant notifications[cite: 7, 16, 29].
+- [cite_start]🎨 Developing responsive UIs with modern **Angular** (standalone components) and **TypeScript**[cite: 7, 15, 19].
+- [cite_start]🏗️ Expert in **Clean Architecture**, **Onion Architecture**, **N-Tier**, and **SOLID** principles[cite: 4, 9, 13].
+- [cite_start]🚀 Proficient in **Docker** and **multi-environment CI/CD** using MSDeploy and web publish files[cite: 9, 16].
+
+---
 
 ## 💼 Professional Experience
 
-### **Full-Stack Developer | Quad Insight** *Remote | 2024 - Present*
-- Architected scalable RESTful APIs and Angular frontends for pet-tech platforms (Veticare & Squeak) utilizing Clean Architecture. 
-- Integrated ChatGPT-4o-mini for automated medical diagnosis in Veticare, enabling real-time AI assessments. 
-- Redesigned UIs during UX sprints, translating designs into responsive Angular components with full backend integration. 
-- Implemented secure OAuth/JWT flows and SignalR for live updates; managed multi-environment deployments via MSDeploy.
+### **Full-Stack Developer | Quad Insight**
+*Remote | [cite_start]2024 - Present* [cite: 11, 12]
+- Architected scalable RESTful APIs and Angular frontends for pet-tech platforms (Veticare & Squeak) utilizing Clean Architecture[cite: 13].
+- Integrated ChatGPT-4o-mini for automated medical diagnosis, enabling real-time AI assessments[cite: 14].
+- Managed multi-environment deployments and web publishing via MSDeploy[cite: 16].
 
-### **Front-End Engineering Trainee | ITI** *2024* 
-- Completed intensive training on building high-performance SPAs using Angular and TypeScript; applied advanced component-based design during the D2D Hackathon.
+### **Front-End Engineering Trainee | ITI**
+*2024* [cite: 17, 18]
+- Completed intensive training on building high-performance SPAs using Angular and TypeScript[cite: 19].
 
-### **Back-End .NET Developer Intern | [cite_start]Route Academy** *Jan 2024 - Dec 2025*
-- Optimized LINQ queries and SQL indexing, reducing API response times by 20% and DB execution by 40%.
-- Maintained 85% code coverage with NUnit; improved code reusability by 30% through modular backend design.
+### **Back-End .NET Developer Intern | Route Academy**
+*Jan 2024 - Dec 2025* [cite: 20, 21]
+- Optimized LINQ queries and SQL indexing, reducing API response times by 20%[cite: 22].
 
 ---
 
@@ -43,27 +48,24 @@
 ### **Frameworks & Tools** <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt=".NET Core"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="Angular"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
 </p>
 
-### **Database & Caching** <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="SQL Server"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis"/>
-</p>
-
-### [cite_start]**Architectures & Concepts** - 🧩 **N-Tier Architecture & Clean Architecture**
-- 🌐 **RESTful APIs & CQRS (MediatR)**
-- 📡 **SignalR (Real-time Web)**
-- ⚡ **Caching (Redis/In-Memory)** ### **Methodologies & Testing** - 🔄 Agile / Scrum
-- 📝 Unit Testing (NUnit)
+### **Key Technical Concepts**
+- 🌐 **ASP.NET Core:** Web API, MVC, Identity, and Social Auth (Google/Facebook)[cite: 7, 8, 36].
+- 🤖 **AI & External APIs:** ChatGPT API Integration, Stripe, and FCM[cite: 4, 8, 26, 29].
+- 📡 **Real-time:** SignalR, Pusher, and Firebase[cite: 7, 29].
+- 🧩 **Architecture:** Clean Architecture, Onion Architecture, N-Tier, and CQRS (MediatR)[cite: 4, 7, 9, 32].
+- 🚀 **DevOps & Hosting:** Docker, MSDeploy, and Web Publish[cite: 9, 16].
+- 📝 **Testing:** Unit Testing with NUnit[cite: 7, 23].
 
 ---
 
 ## 🌐 Connect with Me  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/Mohamed-Saber)
-- 📧 [dev.mohamed104saber@gmail.com](mailto:dev.mohamed104saber@gmail.com)
+- [cite_start]🔗 [LinkedIn](https://www.linkedin.com/in/Mohamed-Saber) [cite: 2]
+- [cite_start]📧 [dev.mohamed104saber@gmail.com](mailto:dev.mohamed104saber@gmail.com) [cite: 2]
 
 ---
 ⭐️ *Thanks for visiting my profile! Feel free to connect or check out my projects.*
