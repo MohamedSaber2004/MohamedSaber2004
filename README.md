@@ -128,7 +128,7 @@
 
 ## 🌐 Connect With Me
 
-💼 LinkedIn: [https://www.linkedin.com/in/mohamed-saber107/]
+💼 LinkedIn: [https://www.linkedin.com/in/mohamed-saber107/](https://www.linkedin.com/in/mohamed-saber107/)
 📧 Email: [dev.mohamed104saber@gmail.com](mailto:dev.mohamed104saber@gmail.com)
 
 ---
